@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="HomeScreen" project="ScanGen - Alex He" 
+    file="/ScanGen - Alex He/src/HomeScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="223" x="274" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Wishlist" project="ScanGen - Alex He" file="/ScanGen - Alex He/src/Wishlist.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="153" x="537" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="GeneratorGUI" project="ScanGen - Alex He" 
+    file="/ScanGen - Alex He/src/GeneratorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="223" x="730" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Purchases" project="ScanGen - Alex He" 
+    file="/ScanGen - Alex He/src/Purchases.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="210" x="537" y="454"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="PurchasesWishlistGUI" project="ScanGen - Alex He" 
+    file="/ScanGen - Alex He/src/PurchasesWishlistGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="223" x="993" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="ScannerGUI" project="ScanGen - Alex He" 
+    file="/ScanGen - Alex He/src/ScannerGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="223" x="1256" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="BarcodeTest" project="ScanGen - Alex He" 
+    file="/ScanGen - Alex He/src/BarcodeTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="130" x="1519" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
